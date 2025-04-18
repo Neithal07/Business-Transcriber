@@ -57,5 +57,5 @@ Downloadable Minutes of Meeting (MoM) in PDF or Word format
 Multi-language meeting support
 Dashboard analytics to track meetings and action items
 
-**Dataflow Diagram**
+**Architecture Diagram**
 ![Screenshot 2025-04-18 142124](https://github.com/user-attachments/assets/7ce6a93c-830d-494e-819a-0805dec66049)
